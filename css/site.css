@@ -1,0 +1,44 @@
+.main {
+    margin: auto;
+    max-width: 1400px;
+}
+
+.siteIcon {
+    background-image: URL('../images/faviconBig.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 40px;
+    height: 40px;
+    margin-left: 8px;
+}
+
+.content {
+    background-color: #f5efe6;
+    border:4px solid #A76844;
+    border-radius: 30px;
+    padding: 10px;
+}
+
+.content p {
+    text-align: justify;
+    font-size: 30px;
+    padding-left: 20px;
+    color: #C49D83;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+img {
+    max-width: 600px
+}
+.image {
+    flex-basis: 40%
+}
+.h1 {
+    font-size: 50px;
+    color: #BDA18A;
+}

@@ -1,0 +1,61 @@
+div { 
+    font-weight: bold;
+}
+.content {
+    border: 3px solid black;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-bottom: none;
+}
+.grid1 {
+    border: 5px solid black;
+    display: grid;
+    grid-template-columns: 150px auto 150px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+    text-align: center;
+    border-top: none;
+}
+.text3 {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    border-bottom: 5px solid;
+}
+.image {
+    width: 40px;
+    height: 70px;
+    margin-bottom: 10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    margin-left: auto;
+    margin-right: auto;
+}
+.image1 {
+    width: 200px;
+    height: 80px;
+    margin-bottom: 10px;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: contain;
+    margin-left: auto;
+    margin-right: auto;
+}
+.text4 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    text-align: left;
+}
+.text5 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+.text6 {
+    color:white;
+}
